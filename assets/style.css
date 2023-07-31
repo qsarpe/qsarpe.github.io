@@ -1,0 +1,12 @@
+@font-face{
+    font-family: "Xtradex";
+    src: local("./assets/fonts/Xtradex.otf") format("opentype");
+    src: local("./assets/fonts/Xtradex.ttf") format("truetype");
+    font-stretch:semi-expanded;
+}
+
+#title{
+    color: blue;
+    font-size: 80px;
+    font-family: "Xtradex";
+}
